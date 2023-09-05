@@ -7,7 +7,7 @@ int his case (H2)
 
 ## Architecture
 
-This microservice is based on hexagonal architecture
+This microservice is based on layer architecture
 
 ## Local Configuration
 
